@@ -104,7 +104,7 @@ letter-spacing: 0%;
 text-align: left;
 }
 .tonic>p{
-    /* Body / 2 */
+
 color: rgb(52, 69, 99);
 font-family: Poppins;
 font-size: 16px;
@@ -117,7 +117,7 @@ text-align: left;
     margin-top: 19px;
 }
 .tonic1>button{
-    /* Button /Normal */
+  
 color: rgb(57, 109, 242);
 font-family: Poppins;
 font-size: 15px;
